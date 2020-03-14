@@ -1,2 +1,1 @@
-Here I will store the notes, projects, ideas, and thoughts from the experience of reading 
-Principles of Computer System Design: An Introduction. 
+<attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-cf343174-4c73-457f-82d3-d200f43b5e8f"></attachment><p>Here I will store the notes, projects, ideas, and thoughts from the experience of reading Principles of Computer System Design: An Introduction.</p><p><br></p>
