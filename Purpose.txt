@@ -1,0 +1,2 @@
+Here I will store the notes, projects, ideas, and thoughts from the experience of reading 
+Principles of Computer System Design: An Introduction. 
